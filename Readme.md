@@ -1,10 +1,5 @@
 # Git Course
 
-este é um repositório pra ver como o git funciona
-Saiba mais em [rezende.com.br]
-
-Gostou do curso? Quer mais, ajude com uma doação, até um café vale ;)
-
-<a href="index.php">Teste</a>
+Repositório criado para versionar arquivos e praticar os exercício do curso; <a href="https://www.udemy.com/course/dominando-git-e-github/" target="_blank">Dominando Git e GitHub - Do iniciante ao expert</a>
 
 
